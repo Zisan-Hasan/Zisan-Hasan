@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6A5ACD&height=200&section=header&text=Zisan%20Hasan&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" />
 
 <!-- Typing Intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Web+Developer;Data+Structures+%26+Algorithms+Enthusiast;Open+Source+Contributor;Lifelong+Learner+in+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;Problem+Solver;Web+Developer;Data+Structures+%26+Algorithms+Enthusiast;Open+Source+Contributor;Lifelong+Learner+in+Tech" alt="Typing SVG" />
 
 </div>
 
