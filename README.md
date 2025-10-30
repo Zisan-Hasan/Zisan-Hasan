@@ -27,7 +27,7 @@
 
 ## 🚀 My Interests  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Development;Data+Structures+%26+Algorithms;Cloud+Computing+%7C+AWS+%7C+Azure;Artificial+Intelligence+%26+Machine+Learning;Cybersecurity+%26+Ethical+Hacking;Open+Source+Community+Leadership;Digital+Innovation+%26+Entrepreneurship;Research+and+Problem+Solving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Web+Development;Data+Structures+%26+Algorithms;Cloud+Computing+%7C+AWS+%7C+Azure;Artificial+Intelligence+%26+Machine+Learning;Cybersecurity+%26+Ethical+Hacking;Open+Source+Community+Leadership;Digital+Innovation+%26+Entrepreneurship;Research+and+Problem+Solving" alt="Typing SVG" />
 
 ---
 
