@@ -74,7 +74,7 @@
 
 ## 📂 Featured Projects  
 
-- 🌐 **Portfolio Website** → [Visit Here](https://zisanhasan.netlify.app)   
+- 🌐 **Portfolio Website** → [Visit Here](https://dragneel.netlify.app/)   
 - 🤖 **Automation Scripts** → Python-based productivity tools  
 - 📊 **Data Structure Visualizer** → Interactive visualizations for DSA learners  
 - 💡 **Open Source Contributions** → Active contributor in CSE & Web Dev communities  
@@ -117,7 +117,7 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://zisanhasan.netlify.app/">
+<a href="https://dragneel.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
